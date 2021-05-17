@@ -1,6 +1,5 @@
-I teach mathematics and computer science. </br>
-I create YouTube content @TheCSRevelation.</br>
-I believe curiosity is the fuel for creativity.</br>
+
+<b>I believe curiosity is the fuel for creativity.
 
 <!---
 arfaouiGit/arfaouiGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
